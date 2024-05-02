@@ -4625,11 +4625,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Desktop\\חיהלה\\ענן render\\פרקטיקוד4\\TodoApi - server\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Desktop\\חיהלה\\תכנות\\שנה ב\\פרקטיקוד\\פרקטיקוד 5\\TodoServer\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\user1\\Desktop\\חיהלה\\ענן render\\פרקטיקוד4\\TodoApi - server\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\user1\\Desktop\\חיהלה\\תכנות\\שנה ב\\פרקטיקוד\\פרקטיקוד 5\\TodoServer\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Desktop\\חיהלה\\ענן render\\פרקטיקוד4\\TodoApi - server\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Desktop\\חיהלה\\תכנות\\שנה ב\\פרקטיקוד\\פרקטיקוד 5\\TodoServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4723,7 +4723,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
